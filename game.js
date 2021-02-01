@@ -262,7 +262,7 @@
     }
 
     function redirect(){
-        setTimeout($(location).attr('href', 'http://corporate.lcwaikiki.com/hakkimizda'),3000)
+        //setTimeout($(location).attr('href', 'http://corporate.lcwaikiki.com/hakkimizda'),3000)
     }
 
     function storageSave(){
