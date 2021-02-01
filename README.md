@@ -1,6 +1,5 @@
 # ping-pong-Game
 
-Depoyu indirerek çalıştırabilirsiniz.
 VsCode için LiverServer eklentisiyle kolay bir şekilde çalıştırabilirsiniz.
 
 ### Kurallar
